@@ -1,1 +1,13 @@
 .idea/
+
+.buildlog
+.DS_Store
+.idea
+.pub/
+build/
+packages
+pubspec.lock
+.packages
+.dart_tool/
+.idea/
+.vscode
